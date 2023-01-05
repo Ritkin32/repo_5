@@ -1,0 +1,15 @@
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.csproj.AssemblyReference.cache
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\exzamples\exz1\bin\Debug\net6.0\exz1.exe
+C:\repo\exzamples\exz1\bin\Debug\net6.0\exz1.deps.json
+C:\repo\exzamples\exz1\bin\Debug\net6.0\exz1.runtimeconfig.json
+C:\repo\exzamples\exz1\bin\Debug\net6.0\exz1.dll
+C:\repo\exzamples\exz1\bin\Debug\net6.0\exz1.pdb
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.AssemblyInfoInputs.cache
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.AssemblyInfo.cs
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.csproj.CoreCompileInputs.cache
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.dll
+C:\repo\exzamples\exz1\obj\Debug\net6.0\refint\exz1.dll
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.pdb
+C:\repo\exzamples\exz1\obj\Debug\net6.0\exz1.genruntimeconfig.cache
+C:\repo\exzamples\exz1\obj\Debug\net6.0\ref\exz1.dll
